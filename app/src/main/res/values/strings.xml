@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OpenPrivacyKit</string>
+    <string name="xposed_description">Open-source per-app identifier spoofing (upgrade of Privacy Kit concept). Fully auditable.</string>
+</resources>
