@@ -6,3 +6,11 @@ local.properties
 .DS_Store
 captures/
 .cxx/
+
+# Signing material — never commit
+signing/
+*.jks
+*.keystore
+
+# Build outputs
+*.apk
